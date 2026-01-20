@@ -1,0 +1,5 @@
+{
+  "name": "HyperRender GenAI",
+  "description": "A high-fidelity AI image generator specialized for photorealistic and stylized 3D renders using Gemini models.",
+  "requestFramePermissions": []
+}
